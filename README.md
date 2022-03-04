@@ -17,4 +17,3 @@ This project consisted on a Python script to scrape text and images from various
 
 ![Mission to Mars data](https://user-images.githubusercontent.com/96216509/156841426-eaa95524-795f-4314-9f03-b8b298587797.png)
 
-
