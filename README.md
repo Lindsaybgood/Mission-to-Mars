@@ -5,7 +5,13 @@ This project consisted on a Python script to scrape text and images from various
 
 ## Resources
 - Data Sources: [Mars News](https://mars.nasa.gov/news/), [Mars Featured Images](https://spaceimages-mars.com/), [Mars Facts](http://space-facts.com/mars/), [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
-- Software: Python 3.9.7, Anaconda Navigator 1.9.12, Conda 4.10.3, Jupyter Notebook 6.4.5, MongoDB 4.4.0, Splinter 0.14.0, BeautifulSoup4 4.9.1, Flask 1.1.2, BootStrap 3.3.7
+ - Software: 
+   - Python
+   - Jupyter Notebook
+   - Pandas, BeautifulSoup, Splinter, ChromeDriverManager, Flask, PyMongo
+   - MongoDB
+   - HTML5
+   - Bootstrap 3
 
 ## Screenshot
 
