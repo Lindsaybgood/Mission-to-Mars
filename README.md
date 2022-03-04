@@ -18,16 +18,19 @@ Note: The above project overview was extracted from the background to the module
 **Software/Libraries:** Visual Studio Code 1.56.0, jupyter Notebook 6.3.0, Jupyter lab 3.0.14, Flask 1.1.2, Splinter 1.26.4,
  Web Drive Manager, Beautiful Soup, Pymongo, MongoDB 4.4.6, Mongo DB Compass, htmlslib, lxml.
 
-## Project Result
 
-### Scrape Full-Resolution Mars Hemisphere Images and Titles
+## Project Overview
+Create a web application with Flask that will automatically scrape different websites to extract data about the Mission to Mars, store it in a NoSQL database and display the latest information on a HTML page.
 
-![Hemisphere Images and titles](https://user-images.githubusercontent.com/81701640/123450367-aab3d180-d5aa-11eb-99bf-e6459603246e.PNG)
+## Resources
+- Data Sources: [Mars News](https://mars.nasa.gov/news/), [Mars Featured Images](https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars), [Mars Facts](http://space-facts.com/mars/), [Mars Hemispheres](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars)
+- Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3, MongoDB 4.4.0, Splinter 0.14.0, BeautifulSoup4 4.9.1, Flask 1.1.2, BootStrap 3.3.7
 
-### Update the Web App with Mars’s Hemisphere Images and Titles
+## Screenshot and Live Demo
 
-![Mars_images](https://user-images.githubusercontent.com/81701640/123450415-b7382a00-d5aa-11eb-9e55-245a545e3d99.png)
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/68669675/95029070-2364ad80-066b-11eb-9f46-384daba73bc2.png" class="img-responsive" alt="Responsive image" width=700px height=auto>
+</p>
+<br>
 
-**Nnaemeka Enukorah**
-
-**26th June, 2021**
+[![Mission to Mars - Demo](https://user-images.githubusercontent.com/68669675/95505390-de46c100-0973-11eb-9ba9-c19cef2d0ffa.png)](https://vimeo.com/466308347 "Mission to Mars Demo - Click to Watch!")
