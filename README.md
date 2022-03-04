@@ -19,4 +19,3 @@ This project consisted on a Python script to scrape text and images from various
 
 
 
-
